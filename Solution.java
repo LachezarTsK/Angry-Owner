@@ -1,4 +1,3 @@
-package angryOwner.gitHub;
 
 public class Solution {
 
